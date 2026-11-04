@@ -9,3 +9,6 @@ This is a 2D javascript canvas game that I made themed around cops and robbers. 
 
 ## How do I play this?
 [Game Link](https://nottacos2.github.io/copvsarobber/)
+
+## Showcase
+![Showcase of the game](showcasea.png)
