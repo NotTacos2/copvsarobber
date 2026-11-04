@@ -8,4 +8,4 @@ This is a 2D javascript canvas game that I made themed around cops and robbers. 
 - Wanted level mechanic that spawns cops that are faster (Inspired by GTA)
 
 ## How do I play this?
-(Game Link)[https://nottacos2.github.io/copvsarobber/]
+[Game Link](https://nottacos2.github.io/copvsarobber/)
